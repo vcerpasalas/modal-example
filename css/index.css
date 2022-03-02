@@ -1,12 +1,12 @@
 :root {
   --text-color: #fff;
   --primary-theme-color: #2a5298;
-  --secondary-theme-color: #2959ac;
+  --secondary-theme-color: #74a5c2;
   --primary-theme-color-transparent: #2a529880;
   --highlight-color: gold;
   --button-color: transparent;
-  --inverse-theme-color: #fff;
-  --inverse-text-color: #2a5298;
+  --inverse-theme-color: rgb(228, 228, 228);
+  --inverse-text-color: #e4a1bd;
   scroll-behavior: smooth;
 }
 
